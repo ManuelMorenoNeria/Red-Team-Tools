@@ -10,5 +10,5 @@ En este repositorio compartiré mi viaje de aprendizaje en el apasionante mundo 
 ## Herramientas de Reconocimiento
 - Nmap
 - Recon-ng
-- theHarvester
-- dirb
+- TheHarvester
+- Dirb
